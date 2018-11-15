@@ -1,0 +1,12 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "description": "NodeCo GraphQL Workshop",
+  "main": "index.js",
+  "author": "Santiago Suarez Quiroz <suarezquiroz@gmail.com> (https://github.com/suarezquiroz)",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.2.2",
+    "graphql": "^14.0.2"
+  }
+}
